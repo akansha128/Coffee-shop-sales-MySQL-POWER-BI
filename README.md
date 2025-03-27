@@ -15,4 +15,8 @@ This project focuses on analyzing coffee shop sales data using MySQL for data ex
 
 By integrating the powerful querying capabilities of MySQL with the intuitive visualization tools of Power BI, this project delivers comprehensive insights into coffee shop sales patterns.
 
-![Alt Text](https://github.com/username/repository-name/blob/main/image-name.png)
+# Dashboard
+
+
+
+![Dashboard](https://github.com/akansha128/Coffee-shop-sales-MySQL-POWER-BI/blob/main/Coffee%20shop%20sales%20dashboard.png)
